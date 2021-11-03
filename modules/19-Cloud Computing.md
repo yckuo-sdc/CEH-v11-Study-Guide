@@ -47,7 +47,7 @@ Storage/Networking | managed by provider
 - **Cloud Provider** - A person, org. or entity responsible for making a service available; Purveyor of products and services.
 - **Cloud Auditor** - Independent assor of cloud service an security controls.
 - **Cloud Broker** - Manages use, performance and delivery of services as well as relationships between Cloud Providers to Cloud consumers.
-- **Cloud Carrier** - Organization with responsibility of transferring data; Intermediary that provides connectivity and transport of Cloud services from Cloud providers to Cloud consumers. (e.g: Telecom's)
+- **Cloud Carrier** - Organization with responsibility of transferring data; Intermediary that provides connectivity and transport of Cloud services from Cloud providers to Cloud consumers. (e.g: Telecom's) <= ISP
 
 > ⚠️ - **FedRAMP** - regulatory effort regarding cloud computing
 
