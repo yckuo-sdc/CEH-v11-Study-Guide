@@ -76,7 +76,7 @@
     - **Nonpairable** - rejects all connection requests
 
 ## <u>Mobile Attacks</u>
-All other attacks presented on previous chapter are suceptible to mobile devices too attacks like session hijacking, browser vulnerabilities, XSS, email, SMS, phone, OS/Apps bugs, excessive permissions and so on. Vulnerabilities on connection (Bluetooth, WiFi, NFC), encryption.
+All other attacks presented on previous chapter are susceptible to mobile devices too attacks like session hijacking, browser vulnerabilities, XSS, email, SMS, phone, OS/Apps bugs, excessive permissions and so on. Vulnerabilities on connection (Bluetooth, WiFi, NFC), encryption.
 
 
 - **SMS Phishing (Smishing)** - sending texts with malicious links
