@@ -136,6 +136,7 @@ All other attacks presented on previous chapter are susceptible to mobile device
 - Traditional fields of embedded systems, wireless sensor networks, control systems, automation (including home and building automation), and others all contribute to enabling the Internet of things. 
 
 - ![iot](https://www.researchgate.net/profile/Akram_Hakiri/publication/281896657/figure/fig1/AS:391492888743939@1470350586428/High-level-IoT-architecture.png)
+- M2M: machine to machine
 
 - **Three Basic Components**
   - Sensing Technology
