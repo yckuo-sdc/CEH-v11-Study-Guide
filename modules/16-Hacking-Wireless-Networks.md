@@ -81,6 +81,7 @@ Antenna Types:
 
 * 64/128 bit RC4 ICV 
 * **RC4** - Rivest Cipher 4 Stream Cipher Algorithm<br>
+	* 24 bits（initialization vector，IV）=> RC4's key
 * **ICV** - Integrity Check Value
 
 > ⚠️ Very old and insecure
