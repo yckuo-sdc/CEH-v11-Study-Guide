@@ -279,7 +279,7 @@ Inject query strings in order to bypass authentication
 Attempts to write data into application's buffer area to overwrite adjacent memory, execute code or crash a system
   - Inputs more data than the buffer is allowed
   - Includes stack, heap, NOP sleds and more
-  - **Canaries** - systems can monitor these - if they are changed, they indicate a buffer overflow has occurred; placed between buffer and control data
+  - **Canaries** - systems can monitor these - if they are changed(canary value), they indicate a buffer overflow has occurred; placed between buffer and control data
 ---
 
 ### **Cross-Site Request Forgery (CSRF)**
