@@ -99,7 +99,7 @@ Vulnerability in TLS that incorrectly reuse the **same cryptographic nonce when 
 - Minimizing remote access
 - Regenerating the session key after authentication
 - Time - absolute / inactive *(e.g: 1h of inactivity the user will automatically log off)*
-- Use **MFA**
+- Use **MFA(Multi-factor authentication)**
 - Use **IPSec to encrypt**
 
 ### IPSec
